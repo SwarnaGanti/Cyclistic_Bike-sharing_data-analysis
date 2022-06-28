@@ -1,5 +1,8 @@
 #### Cyclistic_Bike-sharing_data-analysis
-#### Google Data Analytics Capstone Project
+#### Google Data Analytics Capstone Project  
+  
+Tools used: R, Tableau <a href="https://public.tableau.com/app/profile/swarna/viz/Cyclistic-Analysis_16539299616340/Cyclistic-DataStory" target="_blank">click here for the Tableau Story</a>  
+
 
 Introduction
 Case Study: Maximising the number of Annual members for the Company's future growth
